@@ -1,0 +1,14 @@
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\bin\Debug\net8.0\Файлик.exe
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\bin\Debug\net8.0\Файлик.deps.json
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\bin\Debug\net8.0\Файлик.runtimeconfig.json
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\bin\Debug\net8.0\Файлик.dll
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\bin\Debug\net8.0\Файлик.pdb
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.AssemblyInfoInputs.cache
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.AssemblyInfo.cs
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.csproj.CoreCompileInputs.cache
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.dll
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\refint\Файлик.dll
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.pdb
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\Файлик.genruntimeconfig.cache
+C:\Users\ulian\source\repos\ДЗ 1 (08.11.24)\Файлик\obj\Debug\net8.0\ref\Файлик.dll
